@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on B2B e-commerce platform<br>👯 I’m looking to collaborate on Web applications with AI-driven features<br>🤝 I’m looking for help with Advanced i3wm customization <br>🌱 I’m currently learning Deep system design<br>💬 Ask me about Frontend frameworks, Backend tech, Ricing Linux <br>🚀 Explore Varidh.in <br>📧 Reach me at varidhsrivastava19145@gmail.com
+🔭 I’m currently working on B2B e-commerce platform<br>👯 I’m looking to collaborate on Web applications with AI-driven features<br>🤝 I’m looking for help with Advanced i3wm customization <br>🌱 I’m currently learning Deep system design<br>💬 Ask me about Frontend frameworks, Backend tech, Ricing Linux <br>🚀 Explore Varidh.info <br>📧 Reach me at varidhsrivastava19145@gmail.com
 
 
 ## 🌐 Socials:
